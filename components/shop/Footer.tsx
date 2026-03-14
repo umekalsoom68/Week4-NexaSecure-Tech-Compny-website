@@ -29,7 +29,7 @@ export default function Footer() {
         ))}
       </div>
       <div className="border-t border-slate-800 py-5 px-5 lg:px-10 flex flex-col md:flex-row items-center justify-between gap-3 max-w-7xl mx-auto">
-        <p className="text-xs text-slate-500">© 2025 HomeFit Ware. Week 4 · NexaSecure Tech.</p>
+        <p className="text-xs text-slate-500">© 2026 HomeFit Ware · NexaSecure Tech.</p>
         <p className="text-xs text-slate-500">Built with Next.js 15 + TypeScript</p>
       </div>
     </footer>
